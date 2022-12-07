@@ -1,8 +1,0 @@
-{
-  "name": "Plantita",
-  "integrations": {
-    "capacitor": {},
-    "cordova": {}
-  },
-  "type": "angular"
-}
